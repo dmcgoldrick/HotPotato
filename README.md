@@ -1,4 +1,7 @@
 # HotPotato
-Encrypted and delocalized secure community messaging and exchange app as a user-owned co-opertive app - cloud free
+Encrypted and de-localized secure community messaging and exchange app. 
+# - user-owned 
+# - cloud free
+Share your spuds today!
 
 Coming Soon! ...
